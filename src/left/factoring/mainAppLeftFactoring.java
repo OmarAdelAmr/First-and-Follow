@@ -7,9 +7,10 @@ import java.util.ArrayList;
 
 public class mainAppLeftFactoring
 {
+	private String inputFile = "Sample.in";
+
 	private ArrayList<inputRule> inputRules;
 	private ArrayList<outputRule> outputRules;
-	private String inputFile = "Sample.in";
 
 	public mainAppLeftFactoring()
 	{
